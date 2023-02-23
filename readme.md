@@ -1,6 +1,6 @@
 # Color markers
 
-<img src="Web capture_23-2-2023_22231_127.0.0.1.jpeg">
+![screenshot](screenshot.jpg)
 
 > 3 Markers :-
 >
@@ -21,4 +21,5 @@
 
 ---
 
-Created by FreeCodeCamp projects.
+Created with 💓 by Ujjayant.
+Reference taken from freecodecamp.
